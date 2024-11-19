@@ -1,0 +1,98 @@
+  #planos {
+    text-align: center;
+    padding: 50px 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .planos-header {
+    margin-bottom: 30px; /* Espaço entre o texto e os planos */
+  }
+  
+  .planos-title {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    color: #2c3e50;
+  }
+  
+  .planos-subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    color: #666;
+  }
+  
+  .planos-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap; /* Responsivo: ajusta os itens em telas menores */
+  }
+  
+  .plano {
+    background: #c8d6d0;
+    border: 2px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    text-align: left;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .plano h3 {
+    font-size: 1.5rem;
+    color: #508b71;
+    margin-bottom: 10px;
+  }
+  
+  .plano .preco {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .plano ul {
+    list-style: none;
+    margin-bottom: 15px;
+  }
+  
+  .plano ul li {
+    margin: 10px 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .plano ul li::before {
+    content: '✔';
+    color: #508b71;
+    margin-right: 10px;
+  }
+  
+  .plano .btn {
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    background: #508b71;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: background 0.3s ease;
+  }
+  
+  .plano .btn:hover {
+    background: #508b71;
+  }
+  
+  .plano:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Responsividade */
+  @media (max-width: 768px) {
+    .planos-container {
+      flex-direction: column;
+      align-items: center;
+    }
+  }
+  
