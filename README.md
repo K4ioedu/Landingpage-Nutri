@@ -34,19 +34,6 @@ Página estática responsiva que apresenta:
 
 ---
 
-## 📷 Screenshots
-
-Coloque as imagens em `assets/img/` e as referências abaixo vão renderizar no README do GitHub.
-
-**Tela inicial**
-
-![Tela Inicial](assets/img/tela-inicial.png)
-
-**Planos**
-
-![Planos](assets/img/planos.png)
-
----
 
 ## 📁 Estrutura sugerida do projeto
 
@@ -101,23 +88,7 @@ python -m http.server 8000
 
 ---
 
-## ✍️ Como personalizar (rápido)
 
-* **Substituir logo / imagens**: coloque novos arquivos em `assets/img/` e ajuste `index.html`.
-* **Editar textos (hero, planos, preços)**: abra `index.html` e altere o conteúdo nos blocos correspondentes.
-* **Modificar cores / tipografia**: edite `assets/css/style.css`.
-* **Adicionar link de demonstração real**: cole o URL do site em `README.md` > seção *Demo*.
-* **Contatos**: por padrão não há contatos reais. Para adicionar, crie uma seção `Contato` e inclua `mailto:` ou link do WhatsApp com cuidado (se for portfólio, prefira texto "Seu contato aqui").
-
----
-
-## ✅ Boas práticas para portfólio
-
-* Não inclua números ou e-mails que não sejam seus.
-* Se for demonstração, deixe claro no README que o projeto é fictício.
-* Ao publicar no GitHub Pages, use `docs/` (branch `gh-pages`) ou a branch principal conforme configuração do Pages.
-
----
 
 ## 🧭 Ideias de melhorias futuras
 
