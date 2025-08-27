@@ -7,8 +7,8 @@ Landing page de demonstração para um serviço de nutrição/nutricionista. Pro
 ## 🔖 Demo
 
 > Link do site (substitua por seu link quando publicar):
-> `https://SEU-USUARIO.github.io/NOME-DO-PROJETO`
-> *(Cole aqui o link após publicar no GitHub Pages ou outro host.)*
+> `https://k4ioedu.github.io/Landingpage-Nutri/`
+
 
 ---
 
@@ -160,7 +160,7 @@ SOFTWARE.
 
 ## 👤 Autor
 
-`Seu Nome` — substitua quando quiser divulgar publicamente seu nome ou portfólio.
+`Kaio Fontenele` — substitua quando quiser divulgar publicamente seu nome ou portfólio.
 
 ---
 
