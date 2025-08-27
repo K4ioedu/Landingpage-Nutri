@@ -133,9 +133,3 @@ SOFTWARE.
 
 `Kaio Fontenele` — substitua quando quiser divulgar publicamente seu nome ou portfólio.
 
----
-
-### Observações finais
-
-* Coloque suas screenshots em `assets/img/` com os nomes `tela-inicial.png` e `planos.png` para que as imagens apareçam automaticamente no README do GitHub.
-* Se quiser, eu posso gerar também o arquivo `LICENSE` separado pronto para você copiar/colar.
